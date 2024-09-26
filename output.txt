@@ -1,0 +1,4 @@
+Car{name='Audi', color='white', classType='offRoad'}
+Car{name='BMW', color='black', classType='coupe'}
+Car{name='Mercedes', color='red', classType='hatchback'}
+Car{name='Volkswagen', color='green', classType='sedan'}
