@@ -43,8 +43,7 @@ private static void exampleWrite(){
         List<Car> carList = new ArrayList<>();
         try {
             Scanner scanner = new Scanner(new File(filename));
-            scanner.nextLine();
-            while (scanner.hasNext()) {
+                        while (scanner.hasNext()) {
                 String a = scanner.next();
                 String b = scanner.next();
                 String c = scanner.next();
